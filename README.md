@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Stephen 👋
 
-<!--
-**Stephenklop/Stephenklop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front End Developer that is recently graduated from <strong>Grafisch Lyceum Rotterdam</strong>. I'm currently looking for jobs. I previously worked at Media Choice, a media company in the Netherlands.
 
-Here are some ideas to get you started:
+## Current Projects <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>
+
+## My Values
+
+🧠 Thoughtful & Inclusive Development <br/>
+💡 Mindset of Learning & Curiosity <br/>
+👐 Teamwork & Communication <br/>
