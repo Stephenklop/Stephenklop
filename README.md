@@ -8,6 +8,3 @@ I'm a Front End Developer that is recently graduated from <strong>Grafisch Lyceu
 
 ## My Values
 
-🧠 Thoughtful & Inclusive Development <br/>
-💡 Mindset of Learning & Curiosity <br/>
-👐 Teamwork & Communication <br/>
