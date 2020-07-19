@@ -4,5 +4,5 @@ I'm a Front End Developer that is recently graduated from <strong>Grafisch Lyceu
 
 ## Current Projects <br/>
 
-> 📱 [Project Todo](https://github.com/Stephenklop/Project-Todo) - I'm building a mobile app that help you keep organized.
+> 📱 [Project Todo](https://github.com/Stephenklop/Project-Todo) - I'm building a mobile app that help you keep organized. </br>
 > 🖼️ [Project Image](https://github.com/Stephenklop/Project-Image) - I'm building a unsplash clone with the unsplash API.
