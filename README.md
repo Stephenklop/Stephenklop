@@ -6,4 +6,6 @@ I'm a Front End Developer that is recently graduated from <strong>Grafisch Lyceu
 
 > 📱 [Project Todo](https://github.com/Stephenklop/Project-Todo) - I'm building a mobile app that help you keep organized. </br>
 
-> 🖼️ [Project Image](https://github.com/Stephenklop/Project-Image) - I'm building a unsplash clone with the unsplash API.
+> 🖼️ [Project Image](https://github.com/Stephenklop/Project-Image) - I'm building a unsplash clone with the unsplash API. </br>
+
+> 💻 [Project VSX](https://github.com/Stephenklop/Project-VSX) - I'm building a Visual Studio Code Color Theme. <br/>
