@@ -4,7 +4,5 @@ I'm a Front End Developer that is recently graduated from <strong>Grafisch Lyceu
 
 ## Current Projects <br/>
 
->
-
-## My Values
+> 📱 [Project Todo](https://github.com/Stephenklop/Project-Todo) - I'm building a mobile app that help you keep organized.
 
