@@ -9,3 +9,5 @@ I'm a Front End Developer that is recently graduated from <strong>Grafisch Lyceu
 > 🖼️ [Project Image](https://github.com/Stephenklop/Project-Image) - I'm building a unsplash clone with the unsplash API. </br>
 
 > 💻 [Project VSX](https://github.com/Stephenklop/Project-VSX) - I'm building a Visual Studio Code Color Theme. <br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=stephenklop&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Stephenklop Github Stats" />
