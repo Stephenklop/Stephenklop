@@ -14,4 +14,4 @@ I'm a Front End Developer that is recently graduated from <strong>Grafisch Lyceu
 
 ## Github Stats <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=stephenklop" alt="Stephenklop Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=stephenklop" alt="Stephenklop Github Stats" /> 
