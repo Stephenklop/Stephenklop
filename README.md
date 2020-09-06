@@ -1,6 +1,6 @@
 # Hi there, I'm Stephen 👋 
 
-I'm a Front End Developer that is recently graduated from <strong>Grafisch Lyceum Rotterdam</strong>. I'm currently studying Informatica for a Bachelors of science
+I'm a Front End Developer studying at <strong>Avans University of Applied Sciences</strong>. I recently graduated from <strong>Grafisch Lyceum Rotterdam</strong>.
 
 ## Current Projects <br/>
 
