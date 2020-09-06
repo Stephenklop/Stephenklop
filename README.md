@@ -1,6 +1,6 @@
 # Hi there, I'm Stephen 👋 
 
-I'm a Front End Developer that is recently graduated from <strong>Grafisch Lyceum Rotterdam</strong>. I'm currently looking for jobs. I previously worked at Media Choice, a media company in the Netherlands.
+I'm a Front End Developer that is recently graduated from <strong>Grafisch Lyceum Rotterdam</strong>. I'm currently studying Informatica for a Bachelors of science
 
 ## Current Projects <br/>
 
