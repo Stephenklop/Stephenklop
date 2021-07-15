@@ -4,11 +4,7 @@ I'm a Full Stack Web Developer studying at <strong>Avans University of Applied S
 
 ## Current Projects <br/>
 
-> 📱 [Project Todo](https://github.com/Stephenklop/Project-Todo) - I'm building a mobile app that help you keep organized. </br>
-
-> 🖼️ [Project Image](https://github.com/Stephenklop/Project-Image) - I'm building a unsplash clone with the unsplash API. </br>
-
-> 💻 [Project VSX](https://github.com/Stephenklop/Project-VSX) - I'm building a Visual Studio Code Color Theme. <br/>
+> 📱 [CRWN Clothing](https://github.com/Stephenklop/crwn-clothing) - I'm building a web store build with React </br>
 
 > 🙋‍♂️ [Portfolio](https://github.com/Stephenklop/Portfolio) - I'm building my personal portfolio website <br/>
 
