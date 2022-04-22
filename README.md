@@ -1,12 +1,21 @@
 # Hi there, I'm Stephen 👋 
 
-I'm a Full Stack Web Developer studying at <strong>Avans University of Applied Sciences</strong>. I recently graduated from <strong>Grafisch Lyceum Rotterdam</strong>.
+I'm a Lead Back-End Engineer at GradeArc
 
 ## Current Projects <br/>
 
 > 📱 [CRWN Clothing](https://github.com/Stephenklop/crwn-clothing) - I'm building a web store build with React </br>
 
 > 🙋‍♂️ [Portfolio](https://github.com/Stephenklop/Portfolio) - I'm building my personal portfolio website <br/>
+
+## My Values
+- Thoughtful & Inclusive Development <br/>
+- Mindset of Learning & Curiosity <br/>
+- Teamwork & Communication
+
+## Connect with Me
+- [Linkedin](https://www.linkedin.com/in/stephen-klop-982b79149/) <br/>
+- [Instagram](https://www.instagram.com/stefklop/) <br/>
 
 ## Github Stats <br/>
 
