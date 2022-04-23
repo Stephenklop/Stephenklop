@@ -19,6 +19,3 @@ I'm a Lead Back-End Engineer at GradeArc
 
 ## Github Stats <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=stephenklop" alt="Stephenklop Github Stats" /> 
-
-## Github Trophies <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=stephenklop)](https://github.com/ryo-ma/github-profile-trophy)
