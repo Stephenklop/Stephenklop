@@ -1,4 +1,4 @@
-# Hi there, I'm Stephen 👋 
+# Hi there, I'm Stephen 👋
 
 I'm a Lead Back-End Engineer at GradeArc
 
