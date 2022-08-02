@@ -1,12 +1,13 @@
-# Hi there, I'm Stephen 👋
+# Hi There, I'm Stephen 👋
 
-I'm a Lead Back-End Engineer at GradeArc
+I'm the development manager at GradeArc
 
-## Current Projects <br/>
-
-> 📱 [CRWN Clothing](https://github.com/Stephenklop/crwn-clothing) - I'm building a web store build with React </br>
-
-> 🙋‍♂️ [Portfolio](https://github.com/Stephenklop/Portfolio) - I'm building my personal portfolio website <br/>
+## Skills 🚀 <br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,express,figma,firebase,git,github,gitlab,graphql,html,js,jest,md,mysql,nextjs,netlify,nodejs,react,sass,ts,vscode" />
+  </a>
+</p>
 
 ## My Values
 - Thoughtful & Inclusive Development <br/>
