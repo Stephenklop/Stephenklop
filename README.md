@@ -3,7 +3,7 @@
 I'm the development manager at GradeArc
 
 ## Skills 🚀 <br/>
-<p align="center">
+<p style="display:flex">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,express,figma,firebase,git,github,gitlab,graphql,html,js,jest,md,mysql,nextjs,netlify,nodejs,react,sass,ts,vscode" />
   </a>
