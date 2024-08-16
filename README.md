@@ -1,7 +1,5 @@
 # Hi There, I'm Stephen 👋
 
-I'm the development manager at GradeArc
-
 ## Skills 🚀 <br/>
 <p>
   <a href="https://skillicons.dev">
