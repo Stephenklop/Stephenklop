@@ -21,5 +21,5 @@
 - Teamwork & Communication
 
 ## Connect with Me
-- [Linkedin](https://www.linkedin.com/in/stephen-klop-982b79149/) <br/>
+- [Linkedin](https://www.linkedin.com/in/stephen-klop/) <br/>
 - [Instagram](https://www.instagram.com/stefklop/) <br/>
