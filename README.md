@@ -2,7 +2,6 @@
 
 ## Skills 🚀 <br/>
 <h2>Frontend & Design</h2>
-<h2>Frontend & Design</h2>
 <p><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,ts,figma,xd" /></p>
 
 <h2>Backend & Infrastructure</h2>
