@@ -1,13 +1,13 @@
 # Hi There, I'm Stephen 👋
 
 ## Skills 🚀 <br/>
-<h2>Frontend & Design</h2>
+<h3>Frontend & Design</h3>
 <p><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,ts,figma,xd" /></p>
 
-<h2>Backend & Infrastructure</h2>
+<h3>Backend & Infrastructure</h3>
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,docker,postgres,prisma,sqlite,redis,sentry,supabase,nginx,gcp,netlify,vercel" /></p>
 
-<h2>Tools & Others</h2>
+<h3>Tools & Others</h3>
 <p><img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,yarn,discordjs,graphql,md,obsidian,postman" /></p>
 
 ## Github Stats ⚡ <br/>
