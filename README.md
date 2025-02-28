@@ -1,11 +1,15 @@
 # Hi There, I'm Stephen 👋
 
 ## Skills 🚀 <br/>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,express,figma,firebase,git,github,gitlab,graphql,html,js,jest,md,mysql,nextjs,netlify,nodejs,react,sass,ts,vscode" />
-  </a>
-</p>
+<h2>Frontend & Design</h2>
+<h2>Frontend & Design</h2>
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,ts,figma,xd" /></p>
+
+<h2>Backend & Infrastructure</h2>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,docker,postgres,prisma,sqlite,redis,sentry,supabase,nginx,gcp,netlify,vercel" /></p>
+
+<h2>Tools & Others</h2>
+<p><img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,yarn,discordjs,graphql,md,obsidian,postman" /></p>
 
 ## Github Stats ⚡ <br/>
 <a href="https://github.com/Stephenklop">
@@ -22,4 +26,3 @@
 
 ## Connect with Me
 - [Linkedin](https://www.linkedin.com/in/stephen-klop/) <br/>
-- [Instagram](https://www.instagram.com/stefklop/) <br/>
